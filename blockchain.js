@@ -240,7 +240,6 @@ function makeWeb3WebsocketContract(chainName, contractName) {
 
 module.exports = {
   getBlockchain,
-  getPolygonNFTCollection,
   getPastEvents,
   makeWeb3WebsocketContract,
   getPolygonNFTCollection
